@@ -1,0 +1,13 @@
+.item {
+  width: 24px;
+  height: 24px;
+  transform: rotate(90deg);
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
